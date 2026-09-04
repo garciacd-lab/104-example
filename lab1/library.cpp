@@ -10,7 +10,7 @@ int returns_42()
 
 int returns_37()
 {
-    return 36;
+    return 37;
 }
 
 int sum_arithmetic_sequence_recursive(int term_count)
